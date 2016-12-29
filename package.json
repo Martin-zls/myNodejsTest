@@ -13,5 +13,8 @@
     "express": "^4.14.0",
     "superagent": "^3.3.1",
     "utility": "^1.9.0"
+  },
+  "dependencies": {
+    "images": "^3.0.0"
   }
 }
