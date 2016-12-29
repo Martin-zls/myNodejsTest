@@ -15,6 +15,7 @@
     "utility": "^1.9.0"
   },
   "dependencies": {
-    "images": "^3.0.0"
+    "images": "^3.0.0",
+    "request": "^2.79.0"
   }
 }
